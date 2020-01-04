@@ -1,2 +1,2 @@
-# wart
-Some WebAssembly Runtime
+# Wart
+## Some WebAssembly Runtime
